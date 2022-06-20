@@ -8,6 +8,11 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 
 [[A aparência e o comportamento do Buddha]]
 
+[[consistency]]
+
+[[A natureza do Buddha]]
+
+
 [[A busca pelo despertar]]
 
 ### Link syntax
